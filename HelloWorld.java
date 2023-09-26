@@ -8,7 +8,7 @@
 public class HelloWorld
 {
 
-    int a = 5;
+    int a = 1;
     int b = 2;
     int c = 1;
     int d = -8;
@@ -28,7 +28,7 @@ public class HelloWorld
             System.out.println("a is " + a + " but is less than 10"); 
             a += 1;
             System.out.println("b is " + b + " and is less than or equal to 20");
-            b += 1;
+            b += 3;
         }
     }
     public static void main(String[] args)
